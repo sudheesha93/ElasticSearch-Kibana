@@ -1,0 +1,12 @@
+ElasticSearch and Kibana Download Links for non-secured versions
+
+https://www.elastic.co/downloads/past-releases/elasticsearch-7-14-0
+https://www.elastic.co/downloads/past-releases/kibana-7-14-0
+
+
+Useful Links
+https://onexlab-io.medium.com/elasticsearch-json-data-ingestion-b275bc0d1622
+
+
+MovieLens Dataset
+https://grouplens.org/datasets/movielens/
